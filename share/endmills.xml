@@ -1,0 +1,6 @@
+<list>
+	<endmill number='1' type='flat bottom' unit='inch' diameter='0.125000' description='1/8" flat bottom'/>
+	<endmill number='2' type='flat bottom' unit='inch' diameter='0.187500' description='3/16" flat bottom'/>
+	<endmill number='3' type='flat bottom' unit='inch' diameter='0.250000' description='1/4" flat bottom'/>
+	<endmill number='4' type='flat bottom' unit='inch' diameter='0.375000' description='3/8" flat bottom'/>
+</list>

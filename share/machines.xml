@@ -1,0 +1,26 @@
+<list>
+	<machine name='Taig'>
+		<setting travel_x='12.0'/>
+		<setting travel_y='5.5'/>
+		<setting travel_z='6.0'/>
+		<setting max_ipm_x='12.0'/>
+		<setting max_ipm_y='12.0'/>
+		<setting max_ipm_z='12.0'/>
+		<setting spindle_control='no'/>
+		<setting tool_change='manual'/>
+                <setting home_switches='no'/>
+                <setting coolant='no'/>
+	</machine>
+	<machine name='Haas OM-2A'>
+		<setting travel_x='10.0'/>
+		<setting travel_y='10.0'/>
+		<setting travel_z='12.0'/>
+		<setting max_ipm_x='60.0'/>
+		<setting max_ipm_y='60.0'/>
+		<setting max_ipm_z='60.0'/>
+		<setting spindle_control='yes'/>
+		<setting tool_change='auto'/>
+                <setting home_switches='yes'/>
+                <setting coolant='yes'/>
+	</machine>
+</list>
